@@ -1,0 +1,20 @@
+{
+  "name": "EduPulse - Student Hub",
+  "short_name": "EduPulse",
+  "description": "Mobile Student Dashboard for attendance, assignments, class timetable, and campus notices.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#1d4ed8",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "scope": "./",
+  "prefer_related_applications": false
+}
